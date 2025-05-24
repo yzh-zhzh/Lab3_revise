@@ -1,5 +1,6 @@
 # Lab 3 - Developing software Test Cases 
 
+
 # H1
 ## H2
 ### H3
@@ -7,20 +8,24 @@
 ##### H5
 ###### H6
 
+
 | Tables       | Creating   | Test  | Out   |
 |--------------|:----------:|-------|------:|
 | 1 Monday     | 2/6        | 123   |    234|
 | 2 Tuesday    | 3/6        | 567   |    211|
 | 3 Wednesday  | 4/6        | 578   |    314|
 
+
 * DevOps Lab Test
 - Practice
 + ReadMe file
 
+
 1. Practice
 2. Testing
 
-[Inline-style Link](www.sp.edu.sg)
+
+[Inline-style Link](https://www.sp.edu.sg)
 
 ![alt text](https://www.sp.edu.sg/images/default-source/logos/logo.png?Status=Master&sfvrsn=6447b33_3 "SP Logo")
 
